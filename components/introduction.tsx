@@ -28,7 +28,7 @@ const Introduction = () => {
                     </h1>
 
                     <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
-                        Hola, mi nombre es Yan Carlos Cerquera, ingeniero electronico de profesión, desarrollador FullStack con mas de 3 años de experiencia, a continuación podras echar un vistazo a mis habilidades, proyectos y eperiencias, si consideras que soy lo que necesitas no dudes en contactarme. 
+                        Hola, mi nombre es Yan Carlos Cerquera, ingeniero electronico de profesión, desarrollador FullStack con mas de 3 años de experiencia, a continuación podras echar un vistazo a mis habilidades, proyectos y experiencias, si consideras que soy lo que necesitas no dudes en contactarme. 
                     </p>
 
                     <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">

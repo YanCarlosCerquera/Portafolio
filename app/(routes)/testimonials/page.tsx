@@ -7,7 +7,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 
 import { dataTestimonials } from '@/data';
 import CircleImage from '@/components/circle-image';
-import AvatarPortfolio from '@/components/avatar-portfolio';
+
 import TransitionPage from '@/components/transition-page';
 
 const TestimonialsPage = () => {
